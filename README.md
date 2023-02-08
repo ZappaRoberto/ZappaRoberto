@@ -1,6 +1,4 @@
-<a href="">
-    <img src="https://visitor-badge.glitch.me/badge?page_id=ZappaRoberto.count_visitors" alt="" title="" align="right" height="30" />
-</a>
+
 
 ## About me 🚀:
 I Dunno
@@ -22,6 +20,10 @@ I Dunno
 ![PySpark](https://img.shields.io/badge/PySpark-%23DC322F.svg?style=flat&logo=ApacheSpark&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=java&logoColor=white)
 ![C](https://img.shields.io/badge/C-%2300599C.svg?style=flat&logo=c&logoColor=white)
+
+<a href="">
+    <img src="https://visitor-badge.glitch.me/badge?page_id=ZappaRoberto.count_visitors" alt="" title="" align="right" height="30" />
+</a>
 
 ## 📈 GitHub Stats
 
