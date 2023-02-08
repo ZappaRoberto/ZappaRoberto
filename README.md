@@ -9,8 +9,6 @@ I Dunno
 
 I Dunno
 
-I Dunno
-
 ## 💼 Technical Skills
 
 ### 🤖 Artificial Intelligence
