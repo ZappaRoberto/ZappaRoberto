@@ -1,11 +1,7 @@
 <p align="center">
   <a target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/48417579/217669809-ed3af936-89ab-402f-91a6-d0d20f65318b.png" alt="my banner"></a>
 </p>
-<h2 align="center">
 I'm a AI Engineer 🤖, ML Engineer 💻, and DataScientist 👨‍💻!
-</h2>
-
-</p>
 
 ## 💼 Technical Skills
 
