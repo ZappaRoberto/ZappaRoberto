@@ -1,5 +1,5 @@
 ## About me 🚀:
-
+![visitors](https://visitor-badge.glitch.me/badge?page_id=ZappaRoberto.count_visitors)
 
 ## 💼 Technical Skills
 
