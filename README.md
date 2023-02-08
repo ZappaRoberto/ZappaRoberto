@@ -1,13 +1,9 @@
+<p align="center">
+  <a target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/48417579/217669809-ed3af936-89ab-402f-91a6-d0d20f65318b.png" alt="my banner"></a>
+</p>
 
 
-## About me 🚀:
-I Dunno
-
-I Dunno
-
-I Dunno
-
-I Dunno
+</p>
 
 ## 💼 Technical Skills
 
