@@ -22,7 +22,7 @@ I Dunno
 ![C](https://img.shields.io/badge/C-%2300599C.svg?style=flat&logo=c&logoColor=white)
 
 <a href="">
-    <img src="https://visitor-badge.glitch.me/badge?page_id=ZappaRoberto.count_visitors" alt="" title="" align="right" height="30" />
+    <img src="https://visitor-badge.glitch.me/badge?page_id=ZappaRoberto.count_visitors" alt="" title="" align="right" height="25" />
 </a>
 
 ## 📈 GitHub Stats
