@@ -1,5 +1,9 @@
+<a href="">
+    <img src="https://visitor-badge.glitch.me/badge?page_id=ZappaRoberto.count_visitors" alt="" title="" align="right" height="30" />
+</a>
+
 ## About me 🚀:
-![visitors](https://visitor-badge.glitch.me/badge?page_id=ZappaRoberto.count_visitors)
+I Dunno
 
 ## 💼 Technical Skills
 
